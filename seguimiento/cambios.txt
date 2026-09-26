@@ -7,3 +7,4 @@ sexto pusheas los cambios con git push
 
 extras
 puedes ver los commit con git log
+    
