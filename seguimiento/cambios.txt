@@ -1,0 +1,9 @@
+primero se inicia el repositorio local con git initt 
+segundo se crea la estructura con comandos como mkdir y touch
+tercero se podifican los archivos con un editor
+cuarto se añaden los cambios de todos los archivos con git add . y opcional ver el estado con git status
+quinto se commitea con git commit -m 
+sexto pusheas los cambios con git push 
+
+extras
+puedes ver los commit con git log
