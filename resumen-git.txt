@@ -1,0 +1,5 @@
+git es un manejador de versiones que sirve para por asi decirlo tomarle una captura a tu codigo en un momento determinado podiendo hacer acciones como comparar moverse entre commit 
+y un monton de acciones 
+
+github es un alojador de codigo en la nube que sirve principal mente valga la redondacia alojar codigo y soluciona una necesidad de cuando programar en equipos no tenerle que enviar 
+a tu digamos compañero tu version del codigo y despues el tenerle que mandar la version que trabajo eso es lo principal de git 
